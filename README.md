@@ -1,4 +1,3 @@
-# hassio_OrangePi_PC
 Hassio for OrangePi PC
 Cài đặt ARMBIAN version Armbian_22.05.4_Orangepipc_bullseye_current_5.15.48
 Set tài khoản admin pass: Theo ý bạn
